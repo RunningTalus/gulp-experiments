@@ -1,0 +1,2 @@
+myThirdFunction = ->
+  "third"
